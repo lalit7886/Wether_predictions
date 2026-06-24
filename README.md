@@ -356,7 +356,7 @@ Global-Weather-Trend-Forecasting/
 
 ## Author
 
-Lalit Mishra
+Lalit Raman Mishra
 
 Machine Learning & AI Enthusiast
 
